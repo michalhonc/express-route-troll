@@ -17,7 +17,7 @@ app.use(routeTroll())
 app.get('/', (req, res) => res.send('Hello World!'))
 
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
-    ```
+```
 
 ## custom settings
 Specify routes or redirectUrl for your custom needs

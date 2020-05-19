@@ -8,5 +8,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/michalhonc/express-route-troll"
-    }
+    },
+    "readme": "README.md"
 }

@@ -1,11 +1,12 @@
 {
-  "name": "express-route-troll",
-  "version": "1.0.0",
-  "description": "Troll users that are trying known secure routes",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Michal Honc",
-  "license": "ISC"
+    "name": "express-route-troll",
+    "version": "1.0.0",
+    "description": "Troll users that are trying known secure routes",
+    "main": "index.js",
+    "author": "Michal Honc",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michalhonc/express-route-troll"
+    }
 }
